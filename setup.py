@@ -7,4 +7,5 @@ setup(
     description="Precise RoI Pooling",
     author="FscoreLab",
     license="",
+    include_package_data=True,
 )
